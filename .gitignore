@@ -1,0 +1,18 @@
+.vs/
+
+# build outputs
+x64/
+*/Debug/
+*/Release/
+
+# user files
+*.user
+*.suo
+*.VC.db
+
+# compilation projects
+
+*.obj
+*.exe
+*.pdb
+*.idb
